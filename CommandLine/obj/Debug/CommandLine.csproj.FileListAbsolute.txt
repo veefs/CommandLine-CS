@@ -1,0 +1,10 @@
+C:\Users\cenor\source\repos\CommandLine\CommandLine\bin\Debug\CommandLine.exe.config
+C:\Users\cenor\source\repos\CommandLine\CommandLine\bin\Debug\CommandLine.exe
+C:\Users\cenor\source\repos\CommandLine\CommandLine\bin\Debug\CommandLine.pdb
+C:\Users\cenor\source\repos\CommandLine\CommandLine\obj\Debug\CommandLine.csproj.AssemblyReference.cache
+C:\Users\cenor\source\repos\CommandLine\CommandLine\obj\Debug\CommandLine.csproj.SuggestedBindingRedirects.cache
+C:\Users\cenor\source\repos\CommandLine\CommandLine\obj\Debug\CommandLine.csproj.CoreCompileInputs.cache
+C:\Users\cenor\source\repos\CommandLine\CommandLine\obj\Debug\CommandLine.exe
+C:\Users\cenor\source\repos\CommandLine\CommandLine\obj\Debug\CommandLine.pdb
+C:\Users\cenor\source\repos\CommandLine\CommandLine\bin\Debug\Colorful.Console.dll
+C:\Users\cenor\source\repos\CommandLine\CommandLine\obj\Debug\CommandLine.csproj.CopyComplete
